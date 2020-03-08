@@ -1,3 +1,4 @@
 my first change in remote repository
 secomd change
 First online changes made.
+smart git change first
